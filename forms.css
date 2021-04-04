@@ -1,0 +1,46 @@
+							#type{
+							  		border: 2px solid black;
+							 		width: 100%;
+						     	 }
+							#type td, #type th {
+									 border: 1px solid #8B0000;
+							     	padding-top: 0.5em;
+							     	padding-bottom: 0.5em;
+							     	 font-size: 1.5em;
+								}
+							#type td:hover {background-color: #DEB887;} 
+										  
+							#type th {
+									 
+								     text-align: center;
+									 background-color: #CD5C5C;
+									 color: white;
+									 font-size: 1.5em;
+								   }
+							button{
+									width:20%;
+									height:10%;
+									padding: 0.4em;
+									border-radius: 2%;
+									
+									background-color:#CD5C5C;
+									color:#ffffff;
+									font-size:1em;
+								  }
+								  #submit
+								  {
+								  	width:10%;
+								  	height:5%;
+								  	border:none;
+								  	background-color:#B22222;
+								  	color:#ffffff;
+								  	font-size:1.5em;
+								  	border-radius: 2px;
+								  	padding: 1%;
+								  }
+								  #submit:hover
+								  {
+								  	opacity:0.9;
+								  	cursor:pointer;
+								  }
+						

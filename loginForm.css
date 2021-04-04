@@ -1,0 +1,44 @@
+form
+{
+	
+	padding:1.5%;
+	width:50%;
+	height: 30%;
+	font-size: 1.5em;
+	
+
+}
+fieldset{
+	width: 80%;
+	
+	border-color: #000000;
+
+}
+/*
+#profilename:focus::placeholder
+{
+	color:transparent;
+}
+
+#password:focus::placeholder
+{
+	color:transparent;
+}*/
+#submit
+{
+	
+	width:30%;
+	height:15%;
+	border:none;
+	background-color:#B22222;
+	color:#ffffff;
+	font-size:1em;
+	border-radius: 2px;
+	border-color: #C71585;
+	padding: 2%;
+	
+}
+#submit:hover{
+	opacity:0.9;
+	cursor:pointer;
+}
